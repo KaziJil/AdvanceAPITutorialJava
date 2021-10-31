@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AdvanceAPITutorialJava">
         <activity
+            android:name=".GitActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity3"
             android:exported="false" />
         <activity
